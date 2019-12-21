@@ -4,7 +4,7 @@ title:      Game Error | dxgierrordevice_removed
 subtitle:   dxgierrordevice_removed
 date:       2018-08-22
 author:     SLX 
-header-img: img/post-bg-independent_thinking.png
+header-img: img/post-bg-error.jpg
 catalog: true
 tags:
     - Game
