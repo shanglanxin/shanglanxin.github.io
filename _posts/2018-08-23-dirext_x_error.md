@@ -2,7 +2,7 @@
 layout:     post
 title:      Game Error | dxgierrordevice_removed
 subtitle:   dxgierrordevice_removed
-date:       2018-08-22
+date:       2018-08-23
 author:     SLX 
 header-img: img/post-bg-red.jpg
 catalog: true
