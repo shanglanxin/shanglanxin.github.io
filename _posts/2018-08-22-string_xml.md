@@ -10,7 +10,8 @@ tags:
     - Android
     - Develop
 ---
-###特殊符号输入
+
+### 特殊符号输入
 
 string.xml文件里面如何输入特殊字符呢？
 
@@ -22,7 +23,7 @@ string.xml文件里面如何输入特殊字符呢？
 空格 &#160; @符号 &#064; :符号 &#058
 ```
 
-###变量输入
+### 变量输入
 
 string.xml文件里面可以写变量，然后由代码动态传入修改string的值。这样一方面xml修改的时候不需要修改传入的变量，修改变量的值也不需要修改xml文件，同时对多语言有着比较好的支持。
 
@@ -41,7 +42,9 @@ string.xml文件里面可以写变量，然后由代码动态传入修改string�
 Resources res = getResources();
 String text = String.format(res.getString(R.string.welcome_messages), username, mailCount);
 ```
-###HTML输入
+
+### HTML输入
+
 xml文件里面可以直接使用html标签，不论是\<b>的加粗还是\<i>的斜体还是\<u>的下划线
 不过获取文字后设置的注意是通过html获取文字：
 ```
