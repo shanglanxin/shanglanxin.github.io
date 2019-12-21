@@ -10,8 +10,6 @@ tags:
     - Android
     - Develop
 ---
-Android string.xml输入
-
 ###特殊符号输入
 
 string.xml文件里面如何输入特殊字符呢？
